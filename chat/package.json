@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "packages",
+  "main": "chat2.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "parse-uri": "^1.0.0", 
+    "socket.io": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
